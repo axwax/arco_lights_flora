@@ -2,7 +2,7 @@
 
 #### Adafruit Flora microprocessor
 
-![image alt text](image_0.png)
+![image alt text](images/image_0.png)
 
 [Maplin Electronics](http://www.maplin.co.uk/p/adafruit-flora-wearable-electronic-platform-arduino-compatible-n83dp) 		£15.99
 
@@ -10,13 +10,13 @@
 
 #### Piezo transducer
 
-![image alt text](image_1.jpg)
+![image alt text](images/image_1.jpg)
 
 [Maplin Electronics](http://www.maplin.co.uk/p/3v-ceramic-piezo-transducer-2718-yu87u) 		  £1.39
 
 #### USB charger 2600mAh
 
-![image alt text](image_2.jpg)
+![image alt text](images/image_2.jpg)
 
 [Amazon](https://www.amazon.co.uk/PowerBank-Portable-Battery-Charger-Blackberry/dp/B00IXGDSUM/)			 £4.99
 
@@ -24,7 +24,7 @@ NB: before Brexit these were less than half price :Õ(
 
 #### USB to mini (not micro!) USB cable
 
-![image alt text](image_3.jpg)
+![image alt text](images/image_3.jpg)
 
 [Bluechargedirect](http://www.ebay.co.uk/itm/like/351640949914)		 £0.99
 
@@ -46,7 +46,7 @@ Alternatively, for glasses:
 
 #### 2x Neopixel rings
 
-![image alt text](image_4.jpg)
+![image alt text](images/image_4.jpg)
 
 [czb6721960 ](http://www.ebay.co.uk/itm/2Pcs-WS2812B-5050-RGB-LED-Ring-16Bit-RGB-LED-Integrated-Drivers-For-Arduino-/141959873239?hash=item210d77c2d7:g:8wUAAOSwhOVXdJP9)(China)		  £4.31
 
@@ -56,13 +56,13 @@ Alternatively, for glasses:
 
 #### Cables
 
-#### ![image alt text](image_5.jpg)![image alt text](image_6.jpg)
+#### ![image alt text](images/image_5.jpg)![image alt text](images/image_6.jpg)
 
 I used a combination of CAT 5 cable I had kicking about and m/f DuPont wires to create detachable connectors.
 
 # Circuit Diagram:
 
-![image alt text](image_7.jpg)
+![image alt text](images/image_7.jpg)
 
 # Code
 ## Dependencies:

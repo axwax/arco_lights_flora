@@ -1,5 +1,9 @@
 [![Arco LEDs v4](https://img.youtube.com/vi/GRqZQ8ZZVxc/0.jpg)](https://www.youtube.com/watch?v=GRqZQ8ZZVxc)
+<<<<<<< HEAD
 [Watch video here](https://www.youtube.com/watch?v=GRqZQ8ZZVxc)
+=======
+
+>>>>>>> a815e48c040be639c35d31c9deda951524385c30
 # Parts List:
 
 #### Adafruit Flora microprocessor

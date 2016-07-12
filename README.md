@@ -65,4 +65,9 @@ I used a combination of CAT 5 cable I had kicking about and m/f DuPont wires to 
 ![image alt text](image_7.jpg)
 
 # Code
-[Download the code here](arco_lights_flora.ino)
+## Dependencies:
+* [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+* [Adafruit Board Support Package](https://learn.adafruit.com/adafruit-arduino-ide-setup/arduino-1-dot-6-x-ide)
+* [Arduino Light Animation (ALA) library](https://github.com/ssured/ALA)
+
+[Download the code here](https://raw.githubusercontent.com/axwax/arco_lights_flora/master/arco_lights_flora.ino)

@@ -65,12 +65,14 @@ class Piezo {
 
 
     void setup() {
+      Serial.begin(9600); // debug
       state = LOW;
     }
 
     void loop() {
       sensorValue = analogRead(pin);
       if (sensorValue >=80) {
+        Serial.println(sensorValue);
         buttonDownMs = millis();
         state = HIGH;
         // low hit
